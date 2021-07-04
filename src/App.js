@@ -1,5 +1,5 @@
 import "./App.css";
-import book from "./book.jpg";
+
 import Dictionary from "./Dictionary";
 
 export default function App() {
@@ -11,7 +11,7 @@ export default function App() {
           <Dictionary />
         </main>
         <br />
-        <img src={book} className="Book-logo" alt="book" />
+
         <footer className="text-center">
           <small>Coded by: Michelle Stone</small>
         </footer>
