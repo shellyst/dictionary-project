@@ -3,3 +3,19 @@
   color: white;
   font-family: Crimson Text, serif;
 }
+
+.Dictionary section {
+  background: #2c2a2d;
+  border-radius: 8px;
+  padding: 15px;
+  border: 1px solid #dbd3e2;
+  box-shadow: 0px 10px 19px rgba(0, 0, 0, 0.2);
+  margin: 20px 0;
+}
+
+.Dictionary input {
+  width: 100%;
+  padding: 6px 4px;
+  border: 1px solid #fff;
+  border-radius: 6px;
+}
