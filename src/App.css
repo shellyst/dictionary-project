@@ -22,3 +22,8 @@ a {
 a:hover {
   color: #b78ecc;
 }
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}

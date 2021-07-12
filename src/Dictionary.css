@@ -7,10 +7,12 @@
 .Dictionary section {
   background: #2c2a2d;
   border-radius: 8px;
-  padding: 15px;
+  padding: 30px;
   border: 1px solid #dbd3e2;
   box-shadow: 0px 10px 19px rgba(0, 0, 0, 0.2);
-  margin: 20px 0;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 10px;
 }
 
 .Dictionary input {
@@ -18,4 +20,9 @@
   padding: 6px 4px;
   border: 1px solid #fff;
   border-radius: 6px;
+}
+
+.Dictionary h1 {
+  font-size: 20px;
+  margin-bottom: 20px;
 }
